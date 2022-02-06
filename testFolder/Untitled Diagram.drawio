@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-06T12:19:24.334Z" agent="5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.174 YaBrowser/22.1.2.833 Yowser/2.5 Safari/537.36" etag="3-JIGvu44fRvhgE8lck0" version="16.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-06T12:34:02.465Z" agent="5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.174 YaBrowser/22.1.2.833 Yowser/2.5 Safari/537.36" etag="uyG-gp4WDBAVSST_qflN" version="16.5.3" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="1391" dy="865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="7880" dy="4900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1072,15 +1072,6 @@
         <mxCell id="aoM_VOd6xSWKAF-DBPvm-538" value="" style="swimlane;startSize=0;fontFamily=Times New Roman;fontSize=14;strokeColor=#CC0000;" vertex="1" parent="1">
           <mxGeometry x="4830" y="2350" width="190" height="640" as="geometry" />
         </mxCell>
-        <mxCell id="aoM_VOd6xSWKAF-DBPvm-544" value="Провести адаптацию сотрудника в магазине" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontColor=#000000;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="aoM_VOd6xSWKAF-DBPvm-538">
-          <mxGeometry x="35" y="20" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="aoM_VOd6xSWKAF-DBPvm-545" value="Заполнить характеристику на ССС" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;rounded=1;" vertex="1" parent="aoM_VOd6xSWKAF-DBPvm-538">
-          <mxGeometry x="35" y="120" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="aoM_VOd6xSWKAF-DBPvm-546" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;fontColor=#000000;strokeColor=#999900;" edge="1" parent="aoM_VOd6xSWKAF-DBPvm-538" source="aoM_VOd6xSWKAF-DBPvm-544" target="aoM_VOd6xSWKAF-DBPvm-545">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="aoM_VOd6xSWKAF-DBPvm-539" value="" style="swimlane;startSize=0;fontFamily=Times New Roman;fontSize=14;strokeColor=#CC0000;" vertex="1" parent="1">
           <mxGeometry x="5020" y="2350" width="190" height="640" as="geometry" />
         </mxCell>
@@ -1098,13 +1089,98 @@
             <mxPoint x="430" y="2500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aoM_VOd6xSWKAF-DBPvm-553" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;fontColor=#000000;strokeColor=#999900;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aoM_VOd6xSWKAF-DBPvm-545" target="aoM_VOd6xSWKAF-DBPvm-549">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="4784.999999999999" y="2500" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="aoM_VOd6xSWKAF-DBPvm-558" value="" style="swimlane;startSize=0;fontFamily=Times New Roman;fontSize=14;strokeColor=#CC0000;" vertex="1" parent="1">
           <mxGeometry x="180" y="2990" width="320" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="aoM_VOd6xSWKAF-DBPvm-582" value="Рекомендовать сотрудников на обучение в КР" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;rounded=1;" vertex="1" parent="aoM_VOd6xSWKAF-DBPvm-558">
+          <mxGeometry x="50" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aoM_VOd6xSWKAF-DBPvm-559" value="" style="swimlane;startSize=0;fontFamily=Times New Roman;fontSize=14;strokeColor=#CC0000;" vertex="1" parent="1">
+          <mxGeometry x="500" y="2990" width="180" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="aoM_VOd6xSWKAF-DBPvm-560" value="" style="swimlane;startSize=0;fontFamily=Times New Roman;fontSize=14;strokeColor=#CC0000;" vertex="1" parent="1">
+          <mxGeometry x="500" y="2990" width="180" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="aoM_VOd6xSWKAF-DBPvm-561" value="" style="swimlane;startSize=0;fontFamily=Times New Roman;fontSize=14;strokeColor=#CC0000;" vertex="1" parent="1">
+          <mxGeometry x="680" y="2990" width="180" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="aoM_VOd6xSWKAF-DBPvm-562" value="" style="swimlane;startSize=0;fontFamily=Times New Roman;fontSize=14;strokeColor=#CC0000;" vertex="1" parent="1">
+          <mxGeometry x="860" y="2990" width="180" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="aoM_VOd6xSWKAF-DBPvm-563" value="" style="swimlane;startSize=0;fontFamily=Times New Roman;fontSize=14;strokeColor=#CC0000;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="2990" width="230" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="aoM_VOd6xSWKAF-DBPvm-564" value="" style="swimlane;startSize=0;fontFamily=Times New Roman;fontSize=14;strokeColor=#CC0000;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="2990" width="190" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="aoM_VOd6xSWKAF-DBPvm-565" value="" style="swimlane;startSize=0;fontFamily=Times New Roman;fontSize=14;strokeColor=#CC0000;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="2990" width="190" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="aoM_VOd6xSWKAF-DBPvm-566" value="" style="swimlane;startSize=0;fontFamily=Times New Roman;fontSize=14;strokeColor=#CC0000;" vertex="1" parent="1">
+          <mxGeometry x="1650" y="2990" width="520" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="aoM_VOd6xSWKAF-DBPvm-567" value="" style="swimlane;startSize=0;fontFamily=Times New Roman;fontSize=14;strokeColor=#CC0000;" vertex="1" parent="1">
+          <mxGeometry x="2170" y="2990" width="840" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="aoM_VOd6xSWKAF-DBPvm-584" value="Организовать обучение стажера" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;rounded=1;" vertex="1" parent="aoM_VOd6xSWKAF-DBPvm-567">
+          <mxGeometry x="330" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aoM_VOd6xSWKAF-DBPvm-568" value="" style="swimlane;startSize=0;fontFamily=Times New Roman;fontSize=14;strokeColor=#CC0000;" vertex="1" parent="1">
+          <mxGeometry x="3010" y="2990" width="190" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="aoM_VOd6xSWKAF-DBPvm-569" value="" style="swimlane;startSize=0;fontFamily=Times New Roman;fontSize=14;strokeColor=#CC0000;" vertex="1" parent="1">
+          <mxGeometry x="3200" y="2990" width="670" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="aoM_VOd6xSWKAF-DBPvm-570" value="" style="swimlane;startSize=0;fontFamily=Times New Roman;fontSize=14;strokeColor=#CC0000;" vertex="1" parent="1">
+          <mxGeometry x="3870" y="2990" width="190" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="aoM_VOd6xSWKAF-DBPvm-571" value="" style="swimlane;startSize=0;fontFamily=Times New Roman;fontSize=14;strokeColor=#CC0000;" vertex="1" parent="1">
+          <mxGeometry x="4060" y="2990" width="280" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="aoM_VOd6xSWKAF-DBPvm-572" value="" style="swimlane;startSize=0;fontFamily=Times New Roman;fontSize=14;strokeColor=#CC0000;" vertex="1" parent="1">
+          <mxGeometry x="4340" y="2990" width="260" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="aoM_VOd6xSWKAF-DBPvm-579" value="Согласовать количество сотрудников в КР на год" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontColor=#000000;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="aoM_VOd6xSWKAF-DBPvm-572">
+          <mxGeometry x="70" y="20" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aoM_VOd6xSWKAF-DBPvm-573" value="" style="swimlane;startSize=0;fontFamily=Times New Roman;fontSize=14;strokeColor=#CC0000;" vertex="1" parent="1">
+          <mxGeometry x="4600" y="2990" width="230" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="aoM_VOd6xSWKAF-DBPvm-574" value="" style="swimlane;startSize=0;fontFamily=Times New Roman;fontSize=14;strokeColor=#CC0000;" vertex="1" parent="1">
+          <mxGeometry x="4830" y="2990" width="190" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="aoM_VOd6xSWKAF-DBPvm-580" value="Рекомендовать сотрудников на обучение в КР" style="whiteSpace=wrap;html=1;fontSize=14;fontFamily=Times New Roman;fillColor=#FFFFFF;strokeColor=#000000;fontColor=#000000;rounded=1;" vertex="1" parent="aoM_VOd6xSWKAF-DBPvm-574">
+          <mxGeometry x="30" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aoM_VOd6xSWKAF-DBPvm-575" value="" style="swimlane;startSize=0;fontFamily=Times New Roman;fontSize=14;strokeColor=#CC0000;" vertex="1" parent="1">
+          <mxGeometry x="5020" y="2990" width="190" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="aoM_VOd6xSWKAF-DBPvm-576" value="" style="swimlane;startSize=0;fontFamily=Times New Roman;fontSize=14;strokeColor=#CC0000;" vertex="1" parent="1">
+          <mxGeometry x="5210" y="2990" width="190" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="aoM_VOd6xSWKAF-DBPvm-577" value="" style="swimlane;startSize=0;fontFamily=Times New Roman;fontSize=14;strokeColor=#CC0000;" vertex="1" parent="1">
+          <mxGeometry x="5400" y="2990" width="190" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="aoM_VOd6xSWKAF-DBPvm-578" value="" style="swimlane;startSize=0;fontFamily=Times New Roman;fontSize=14;strokeColor=#CC0000;" vertex="1" parent="1">
+          <mxGeometry x="5590" y="2990" width="160" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="aoM_VOd6xSWKAF-DBPvm-581" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;fontColor=#000000;strokeColor=#00FFFF;" edge="1" parent="1" source="aoM_VOd6xSWKAF-DBPvm-579" target="aoM_VOd6xSWKAF-DBPvm-580">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aoM_VOd6xSWKAF-DBPvm-583" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;fontColor=#000000;strokeColor=#00FFFF;" edge="1" parent="1" source="aoM_VOd6xSWKAF-DBPvm-579" target="aoM_VOd6xSWKAF-DBPvm-582">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2150" y="3050" />
+              <mxPoint x="2150" y="3050" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aoM_VOd6xSWKAF-DBPvm-585" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;fontColor=#000000;strokeColor=#00FFFF;" edge="1" parent="1" source="aoM_VOd6xSWKAF-DBPvm-582" target="aoM_VOd6xSWKAF-DBPvm-584">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="3110" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
