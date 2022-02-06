@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-06T16:14:50.182Z" agent="5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.174 YaBrowser/22.1.2.833 Yowser/2.5 Safari/537.36" etag="_yYuICXKMg1C--RbnPrH" version="16.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-06T16:16:02.796Z" agent="5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.174 YaBrowser/22.1.2.833 Yowser/2.5 Safari/537.36" etag="SfukL_m63ECWls8EU19q" version="16.5.3" type="github">
   <diagram id="fFlEUpZXtfTeXCQbkwiQ" name="Page-1">
     <mxGraphModel dx="1391" dy="865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -684,7 +684,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kwyz8skmFKL_iXCSU5wU-38" value="1.6 ФОРМИРОВАНИЕ КАДРОВОГО РЕЗЕРВА АУПа И ДАЛЬНЕЙШЕЕ ВЗАИМОДЕЙСТВИЕ С СОТРУДНИКОМ ПОСЛЕ&#xa;ОКОНЧАНИЯ ОБУЧЕНИЯ" style="swimlane;horizontal=0;startSize=30;" vertex="1" parent="1">
-          <mxGeometry x="150" y="3710" width="30" height="740" as="geometry" />
+          <mxGeometry x="150" y="3710" width="30" height="1710" as="geometry" />
         </mxCell>
         <mxCell id="kwyz8skmFKL_iXCSU5wU-39" value="" style="swimlane;startSize=0;shadow=1;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="180" y="3710" width="220" height="1710" as="geometry" />
