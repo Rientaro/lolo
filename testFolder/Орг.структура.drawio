@@ -1,1 +1,78 @@
-<mxfile host="app.diagrams.net" modified="2022-02-25T14:07:26.002Z" agent="5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.174 YaBrowser/22.1.3.850 Yowser/2.5 Safari/537.36" version="16.5.3" etag="W9GgUSb-y_7N10VwrMDN" type="github"><diagram id="FrTSy62S7so-4GbvyX8u">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-02-25T14:13:27.112Z" agent="5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.174 YaBrowser/22.1.3.850 Yowser/2.5 Safari/537.36" etag="n_nvD0S1oC_Imwk7nPTS" version="16.5.3" type="github">
+  <diagram id="FrTSy62S7so-4GbvyX8u" name="Page-1">
+    <mxGraphModel dx="1182" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aT75cl-KFRX4s-wZnaRf-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aT75cl-KFRX4s-wZnaRf-1" target="aT75cl-KFRX4s-wZnaRf-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aT75cl-KFRX4s-wZnaRf-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aT75cl-KFRX4s-wZnaRf-1" target="aT75cl-KFRX4s-wZnaRf-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aT75cl-KFRX4s-wZnaRf-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aT75cl-KFRX4s-wZnaRf-1" target="aT75cl-KFRX4s-wZnaRf-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aT75cl-KFRX4s-wZnaRf-1" value="Директор по оптимизации бизнес-процессов" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="60" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aT75cl-KFRX4s-wZnaRf-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aT75cl-KFRX4s-wZnaRf-2" target="aT75cl-KFRX4s-wZnaRf-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aT75cl-KFRX4s-wZnaRf-2" value="Ведущий специалист по качеству" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aT75cl-KFRX4s-wZnaRf-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aT75cl-KFRX4s-wZnaRf-4" target="aT75cl-KFRX4s-wZnaRf-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aT75cl-KFRX4s-wZnaRf-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aT75cl-KFRX4s-wZnaRf-4" target="aT75cl-KFRX4s-wZnaRf-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aT75cl-KFRX4s-wZnaRf-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aT75cl-KFRX4s-wZnaRf-4" target="aT75cl-KFRX4s-wZnaRf-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aT75cl-KFRX4s-wZnaRf-4" value="Специалист по качеству" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aT75cl-KFRX4s-wZnaRf-6" value="Менеджер по качеству" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aT75cl-KFRX4s-wZnaRf-8" value="Менеджер по качеству" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aT75cl-KFRX4s-wZnaRf-10" value="Менеджер по качеству" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aT75cl-KFRX4s-wZnaRf-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aT75cl-KFRX4s-wZnaRf-12" target="aT75cl-KFRX4s-wZnaRf-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aT75cl-KFRX4s-wZnaRf-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aT75cl-KFRX4s-wZnaRf-12" target="aT75cl-KFRX4s-wZnaRf-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aT75cl-KFRX4s-wZnaRf-12" value="Директор магазина" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="55" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aT75cl-KFRX4s-wZnaRf-14" value="Зам. директора" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aT75cl-KFRX4s-wZnaRf-16" value="Зав. складом" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aT75cl-KFRX4s-wZnaRf-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aT75cl-KFRX4s-wZnaRf-18" target="aT75cl-KFRX4s-wZnaRf-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aT75cl-KFRX4s-wZnaRf-18" value="Контрольно-ревизионный отдел" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="55" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aT75cl-KFRX4s-wZnaRf-20" value="Другие отделы" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aT75cl-KFRX4s-wZnaRf-23" value="Отдел оптимизации бизнес-процессов" style="swimlane;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="30" width="420" height="370" as="geometry">
+            <mxRectangle x="160" y="30" width="260" height="23" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
